@@ -7,8 +7,9 @@ import (
 	"runtime"
 	"strconv"
 	"strings"
-	"test/buffer"
 	"time"
+
+	"github.com/AidynClarke/golang-live-reload/buffer"
 )
 
 type golangRunner struct {

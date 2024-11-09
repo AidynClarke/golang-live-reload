@@ -6,8 +6,9 @@ import (
 	"os/exec"
 	"runtime"
 	"strconv"
-	"test/buffer"
 	"time"
+
+	"github.com/AidynClarke/golang-live-reload/buffer"
 )
 
 type genericRunner struct {

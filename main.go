@@ -8,9 +8,10 @@ import (
 	"os/signal"
 	"strings"
 	"syscall"
-	"test/runner"
-	"test/watcher"
 	"time"
+
+	"github.com/AidynClarke/golang-live-reload/runner"
+	"github.com/AidynClarke/golang-live-reload/watcher"
 
 	"github.com/fsnotify/fsnotify"
 )

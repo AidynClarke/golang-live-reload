@@ -1,4 +1,4 @@
-module test
+module github.com/AidynClarke/golang-live-reload
 
 go 1.23.3
 

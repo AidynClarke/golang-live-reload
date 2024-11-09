@@ -4,8 +4,9 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"test/buffer"
-	"test/utils"
+
+	"github.com/AidynClarke/golang-live-reload/buffer"
+	"github.com/AidynClarke/golang-live-reload/utils"
 
 	"github.com/fsnotify/fsnotify"
 )
