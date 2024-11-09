@@ -1,0 +1,8 @@
+{
+  "name": "scripts",
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "command-line-args": "^6.0.1",
+    "command-line-usage": "^7.0.3"
+  }
+}
